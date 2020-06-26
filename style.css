@@ -1,0 +1,19 @@
+.quote{
+    width: 50vw;
+    height: 20vh;
+    background-color: aquamarine;
+    margin: auto;
+}
+
+.container{
+    text-align: center;
+    font-family: 'Open Sans', sans-serif;
+}
+
+button{
+    background-color: burlywood;
+    margin-top: 15px;
+    border-radius: 5px;
+    border: burlywood;
+    height: 25px;
+}
